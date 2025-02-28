@@ -1,6 +1,4 @@
-    Nicolăescu Alexandru-Valentin - 324CB
 
-                        README Proiect
                      Aplicatie turistica
     
     Introducere
